@@ -5,6 +5,6 @@
       "const ${1:function} = () => {};",
       "export default ${1:function};"
     ],
-    "description": "A for loop."
+    "description": "React arrow function component with export default."
   }
 }
