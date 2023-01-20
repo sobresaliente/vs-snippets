@@ -1,0 +1,10 @@
+{
+  "refunc": {
+    "prefix": ["refunc"],
+    "body": [
+      "const ${1:function} = () => {};",
+      "export default ${1:function};"
+    ],
+    "description": "A for loop."
+  }
+}
